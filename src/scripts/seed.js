@@ -59,6 +59,8 @@ const MOVIES = [
     genres: ["Sci-Fi", "Thriller", "Action"],
     language: "English",
     country: "USA",
+    poster:
+      "https://upload.wikimedia.org/wikipedia/en/2/2e/Inception_%282010%29_theatrical_poster.jpg",
     actors: [
       "Leonardo DiCaprio",
       "Cillian Murphy",
@@ -92,6 +94,8 @@ const MOVIES = [
     director: "Christopher Nolan",
     genres: ["Action", "Crime", "Thriller"],
     language: "English",
+    poster:
+      "https://irs.www.warnerbros.com/keyart-jpeg/movies/media/browser/the_dark_knight_key_art.jpg",
     country: "UK",
     actors: ["Christian Bale", "Michael Caine", "Cillian Murphy"],
   },
@@ -121,6 +125,8 @@ const MOVIES = [
     genres: ["Sci-Fi", "Action", "Thriller"],
     language: "English",
     country: "USA",
+    poster:
+      "https://m.media-amazon.com/images/M/MV5BZmNlNjE2YzQtYTJlOC00Mzk3LThjNWEtZjhiNmNiN2NlN2MyXkEyXkFqcGc@._V1_.jpg",
     actors: ["Robert Pattinson", "John David Washington", "Elizabeth Debicki"],
   },
   {
@@ -373,6 +379,8 @@ const MOVIES = [
     genres: ["Action", "Crime", "Mystery", "Thriller"],
     language: "English",
     country: "UK",
+    poster:
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQktkSYNbULQq3N-78i-Pu0-3MP6h04uMEc_H0UJA5d6FZmmCuajd9ndSE&s=10",
     actors: ["Robert Pattinson", "Zoe Kravitz", "Colin Farrell"],
   },
   {
@@ -416,6 +424,8 @@ const MOVIES = [
     genres: ["Drama", "Crime", "Psychological", "Thriller"],
     language: "English",
     country: "USA",
+    poster:
+      "https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/Joker_%282019_film%29_poster.jpg/250px-Joker_%282019_film%29_poster.jpg",
     actors: ["Joaquin Phoenix", "Robert De Niro"],
   },
   {
@@ -533,7 +543,7 @@ const MOVIES = [
     language: "English",
     country: "USA",
     poster:
-      "https://upload.wikimedia.org/wikipedia/en/1/15/The_Wolf_of_Wall_Street_%282013%29.png",
+      "https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/The_Wolf_of_Wall_Street_%282013%29.png/250px-The_Wolf_of_Wall_Street_%282013%29.png",
     actors: ["Leonardo DiCaprio", "Jonah Hill", "Margot Robbie"],
   },
   {
@@ -592,8 +602,7 @@ const MOVIES = [
     genres: ["Psychological", "Thriller", "Mystery"],
     language: "English",
     country: "Canada",
-    poster:
-      "https://upload.wikimedia.org/wikipedia/en/7/70/Enemy2013Poster.jpg",
+    poster: "https://upload.wikimedia.org/wikipedia/en/0/0d/Enemy_poster.jpg",
     actors: ["Jake Gyllenhaal", "Mélanie Laurent"],
   },
   {
@@ -652,7 +661,8 @@ const MOVIES = [
     genres: ["Drama", "Sci-Fi"],
     language: "English",
     country: "USA",
-    poster: "https://upload.wikimedia.org/wikipedia/en/c/c3/TheTrumanShow.jpg",
+    poster:
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUsg5YOpubsRgg155e8OfayYD5txAjfjlknXsJOI0t-xwhbgEZoCFKwtI&s=10",
     actors: ["Jim Carrey", "Laura Linney", "Ed Harris"],
   },
   {
@@ -756,7 +766,7 @@ const MOVIES = [
     language: "English",
     country: "USA",
     poster:
-      "https://upload.wikimedia.org/wikipedia/en/3/33/Ford_v._Ferrari_%282019_film_poster%29.png",
+      "https://madgeniusclub.com/wp-content/uploads/2019/12/ford-vs-ferrari.jpg",
     actors: ["Matt Damon", "Christian Bale"],
   },
   {
@@ -816,7 +826,7 @@ const MOVIES = [
     language: "English",
     country: "USA",
     poster:
-      "https://upload.wikimedia.org/wikipedia/en/1/16/The_Lighthouse_%282019_film%29.png",
+      "https://upload.wikimedia.org/wikipedia/en/2/2c/The_Lighthouse.jpeg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
     actors: ["Robert Pattinson", "Willem Dafoe"],
   },
   {
