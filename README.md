@@ -8,7 +8,7 @@ traversal, relationship-driven recommendations, and explainable “why was this 
 answers — all as first-class Cypher queries. This package owns the REST API, Cypher modules,
 recommendation scoring, and the idempotent seed script.
 
-Pair it with the [frontend](../frontend/README.md) (Next.js UI + React Flow graph explorer).
+Pair it with the [frontend](https://github.com/NSINGHRAJPUT/movie-suggestions-frontend/blob/main/README.md) (Next.js UI + React Flow graph explorer).
 
 ---
 
@@ -293,9 +293,4 @@ Typical hosts: **Render**, **Railway**, or any Node host.
 
 Point `FRONTEND_ORIGIN` at your deployed Next.js origin(s).
 
----
 
-## Related
-
-- [Frontend README](../frontend/README.md)
-- [Demo walkthrough](../docs/demo-script.md)
